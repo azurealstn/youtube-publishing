@@ -11,6 +11,10 @@ HTML, CSS, 간단한 JAVASCRIPT
 
 ![캡처](https://user-images.githubusercontent.com/55525868/110643342-594c2600-81f7-11eb-8c86-5203efdb32a6.PNG)
 
+### 사이트
+
+[바로 가기](https://azurealstn.github.io/youtube-publishing/)
+
 ### 참고
 
 [유튜브 영상](https://www.youtube.com/watch?v=67stn7Pu7s4&list=PLv2d7VI9OotQ1F92Jp9Ce7ovHEsuRQB3Y&index=16)
