@@ -29,5 +29,6 @@ HTML, CSS, 간단한 JAVASCRIPT
 [유튜브 영상](https://www.youtube.com/watch?v=67stn7Pu7s4&list=PLv2d7VI9OotQ1F92Jp9Ce7ovHEsuRQB3Y&index=16)
 
 ### 마크업 구조
+큰 구조로만 나누어보았습니다!
 
 ![캡처](https://user-images.githubusercontent.com/55525868/110643661-adefa100-81f7-11eb-9dd6-367010af21fa.PNG)
