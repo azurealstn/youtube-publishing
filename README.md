@@ -7,6 +7,15 @@ HTML, CSS, 간단한 JAVASCRIPT
 ### 소요시간
 2021-03-10 (약 2시간)
 
+### 마크업 구조
+박스 구조를 파악하고 마크업을 짜봤습니다.
+
+![캡처](https://user-images.githubusercontent.com/55525868/110783065-41ce7500-82ab-11eb-845d-cf61dac1a2a2.PNG)
+
+<br/>
+<br/>
+<br/>
+
 ### 원본
 
 ![캡처](https://user-images.githubusercontent.com/55525868/110643342-594c2600-81f7-11eb-8c86-5203efdb32a6.PNG)
@@ -27,9 +36,3 @@ HTML, CSS, 간단한 JAVASCRIPT
 ### 참고
 
 [유튜브 영상](https://www.youtube.com/watch?v=67stn7Pu7s4&list=PLv2d7VI9OotQ1F92Jp9Ce7ovHEsuRQB3Y&index=16)
-
-### 마크업 구조
-박스 구조를 파악하고 마크업을 짜봤습니다.
-
-![캡처](https://user-images.githubusercontent.com/55525868/110783065-41ce7500-82ab-11eb-845d-cf61dac1a2a2.PNG)
-
